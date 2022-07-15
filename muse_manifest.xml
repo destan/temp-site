@@ -1,0 +1,3939 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://94.73.151.138" ftp_rootfolder="/httpdocs" exportTarget="FTP" domain="k9izmir.com" resolutions="1x" timestamp="1563017977403">
+  <folder name="css">
+    <file name="site_global.css" crc="373332122"/>
+    <file name="master_b-master.css" crc="448170493" ref="haberler"/>
+    <file name="nomq_preview_master_b-master.css" crc="311945050" ref="haberler"/>
+    <file name="master_a-master.css" crc="4190390791" ref="fotograflar:iletisim:kopek_oteli:serdar_arslan:kopek_egitimi:index:kopek_mamasi"/>
+    <file name="nomq_preview_master_a-master.css" crc="4131991433" ref="fotograflar:iletisim:kopek_oteli:serdar_arslan:kopek_egitimi:index:kopek_mamasi"/>
+    <file name="haberler.css" crc="4146156918" ref="haberler"/>
+    <file name="nomq_haberler.css" crc="3882095668" ref="haberler"/>
+    <file name="iefonts_haberler.css" crc="508078057" ref="haberler"/>
+    <file name="fotograflar.css" crc="391031824" ref="fotograflar"/>
+    <file name="nomq_fotograflar.css" crc="9829947" ref="fotograflar"/>
+    <file name="iefonts_fotograflar.css" crc="508078057" ref="fotograflar"/>
+    <file name="iletisim.css" crc="3903670028" ref="iletisim"/>
+    <file name="nomq_iletisim.css" crc="429065544" ref="iletisim"/>
+    <file name="iefonts_iletisim.css" crc="508078057" ref="iletisim"/>
+    <file name="kopek_oteli.css" crc="58611513" ref="kopek_oteli"/>
+    <file name="nomq_kopek_oteli.css" crc="4136855010" ref="kopek_oteli"/>
+    <file name="iefonts_kopek_oteli.css" crc="508078057" ref="kopek_oteli"/>
+    <file name="serdar_arslan.css" crc="255014240" ref="serdar_arslan"/>
+    <file name="nomq_serdar_arslan.css" crc="520750112" ref="serdar_arslan"/>
+    <file name="iefonts_serdar_arslan.css" crc="508078057" ref="serdar_arslan"/>
+    <file name="kopek_egitimi.css" crc="4112826967" ref="kopek_egitimi"/>
+    <file name="nomq_kopek_egitimi.css" crc="4140159629" ref="kopek_egitimi"/>
+    <file name="iefonts_kopek_egitimi.css" crc="508078057" ref="kopek_egitimi"/>
+    <file name="index.css" crc="340536382" ref="index"/>
+    <file name="nomq_index.css" crc="3788801133" ref="index"/>
+    <file name="iefonts_index.css" crc="508078057" ref="index"/>
+    <file name="kopek_mamasi.css" crc="349805177" ref="kopek_mamasi"/>
+    <file name="nomq_kopek_mamasi.css" crc="88068195" ref="kopek_mamasi"/>
+    <file name="iefonts_kopek_mamasi.css" crc="508078057" ref="kopek_mamasi"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler"/>
+    <file name="museutils.js" crc="340535759" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler"/>
+    <file name="whatinput.js" crc="86476730" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler"/>
+    <file name="museconfig.js" crc="310584261" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler"/>
+    <file name="webpro.js" crc="4059564322" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_oteli:iletisim"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler"/>
+    <file name="require.js" crc="7928878" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler"/>
+    <file name="form_check.php" crc="4020933626" ref="kopek_mamasi"/>
+    <file name="form_throttle.php" crc="4259590256" ref="kopek_mamasi"/>
+    <file name="form_process.php" crc="37464564" ref="kopek_mamasi"/>
+    <file name="form-u260126.php" crc="3763996738" ref="kopek_mamasi"/>
+    <file name="form-u299885.php" crc="3970131080" ref="iletisim"/>
+  </folder>
+  <folder name="images">
+    <file name="bg9.jpg" crc="175211261" seo="true" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:iletisim:haberler">
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler"/>
+    <file name="loading.gif" crc="3815509949" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler"/>
+    <file name="1.jpg" crc="4158674131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="526414041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="202824539" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="4027108917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.jpg" crc="300238519" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.jpg" crc="151341375" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u26507.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u26659.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u26699.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u26639.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u26679.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u26719.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="squairy_light.jpg" crc="4174498193" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kopek_mamasi.png" crc="3827208138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kopek_oteli4.png" crc="3952860012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.jpg" crc="4281085409" seo="true" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler">
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+    </file>
+    <file name="news4.jpg" crc="4111634279" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_oteli:iletisim">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram.jpg" crc="4254917960" seo="true" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler">
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+    </file>
+    <file name="serdar arslan logo.png" crc="4003278187" seo="true" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler">
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+    </file>
+    <file name="ordos.jpg" crc="3778779191" seo="true" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler">
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+    </file>
+    <file name="fci_logo.jpg" crc="3889642176" seo="true" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler">
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+    </file>
+    <file name="iro-logo_large.jpg" crc="4179766533" seo="true" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler">
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+    </file>
+    <file name="kif_logo_2013.jpg" crc="501961945" seo="true" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler">
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+    </file>
+    <file name="best_partners2.png" crc="357002968" seo="true" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler">
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+    </file>
+    <file name="bg9_900.jpg" crc="4067631315" seo="true" ref="index:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim:haberler">
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="kopek_mamasi" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="serdar_arslan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="haberler" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+      <caption webpage="kopek_egitimi" alt=""/>
+    </file>
+    <file name="1-crop-u265072.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u266592.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u266992.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u266392.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u266792.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u267192.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u265073.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u266593.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u266993.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u266393.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u266793.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u267193.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hamburger-01-u435244.png" crc="82132597" ref="index:fotograflar:kopek_mamasi:serdar_arslan:kopek_egitimi:kopek_oteli:iletisim"/>
+    <file name="1-crop-u265074.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u266594.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u266994.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u266394.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u266794.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u267194.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u265075.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u266595.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u266995.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u266395.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u266795.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u267195.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u265076.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u266596.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u266996.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u266396.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u266796.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u267196.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u265077.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u266597.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u266997.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u266397.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u266797.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u267197.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u265078.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u266598.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u266998.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u266398.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u266798.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u267198.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u265079.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u266599.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u266999.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u266399.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u266799.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u267199.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u2650710.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u2665910.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u2669910.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u2663910.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u2667910.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u2671910.jpg" crc="4171845483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img0272x45.jpg" crc="4237611192" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img17-crop-u30631.jpg" crc="118434420" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img4672x45.jpg" crc="3780681349" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img7560x51.jpg" crc="4156879419" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img9760x45.jpg" crc="4072042148" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img11561x45.jpg" crc="512126323" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img0369x45.jpg" crc="4038611268" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1860x46.jpg" crc="4023930893" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img4765x45.jpg" crc="4252408157" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img7660x50.jpg" crc="515574950" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img9969x45.jpg" crc="3919462285" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img11660x46.jpg" crc="4098510310" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img0471x45.jpg" crc="511174400" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img19-crop-u30671.jpg" crc="247909730" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img4869x45.jpg" crc="218254340" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img7861x45.jpg" crc="70127231" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img10061x45.jpg" crc="3845238615" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img11961x45.jpg" crc="490177650" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img0572x45.jpg" crc="58798070" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img2469x45.jpg" crc="359344131" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img49-crop-u30951.jpg" crc="450954841" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img7961x45.jpg" crc="139647907" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img10361x45.jpg" crc="2203533" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img120-crop-u31731.jpg" crc="3874309163" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img06-crop-u30451.jpg" crc="3910660037" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img2670x45.jpg" crc="403624405" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img5064x45.jpg" crc="73179797" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img8161x45.jpg" crc="261520771" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img10569x45.jpg" crc="3962817548" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img12161x45.jpg" crc="4160508046" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img0761x45.jpg" crc="3978822580" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img2769x45.jpg" crc="18959806" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img5460x51.jpg" crc="3839337317" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img8270x45.jpg" crc="494568320" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img106-crop-u31511.jpg" crc="4168174320" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img123-crop-u31771.jpg" crc="528645540" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img0870x45.jpg" crc="129139325" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img2870x45.jpg" crc="3925029200" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u31011.jpg" crc="76082023" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img8368x45.jpg" crc="96588334" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img10761x45.jpg" crc="3997414939" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img12671x45.jpg" crc="159234009" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img0968x45.jpg" crc="4284493063" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u30771.jpg" crc="4029461456" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img5770x45.jpg" crc="345497777" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img8569x45.jpg" crc="474625068" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img10861x45.jpg" crc="4053960940" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img131-crop-u31811.jpg" crc="4285564566" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1168x45.jpg" crc="3844636302" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u30791.jpg" crc="4234943444" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img6069x45.jpg" crc="3789615650" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img8869x45.jpg" crc="4009114582" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img109-crop-u31571.jpg" crc="4084823812" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img13260x48.jpg" crc="3824166416" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1268x45.jpg" crc="4101018935" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u30811.jpg" crc="22142015" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img6769x45.jpg" crc="4043299705" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img8968x45.jpg" crc="3784591728" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img11060x51.jpg" crc="142044473" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img134-crop-u31851.jpg" crc="4190329906" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1360x50.jpg" crc="4265385477" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img3860x51.jpg" crc="1786655" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u31091.jpg" crc="450857253" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img9073x45.jpg" crc="448816449" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img11161x45.jpg" crc="4112454036" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1461x45.jpg" crc="434159011" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img3960x46.jpg" crc="4284758660" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img7269x45.jpg" crc="4099804662" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img9268x45.jpg" crc="475963241" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img11261x45.jpg" crc="3910395063" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u30611.jpg" crc="223600231" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u30871.jpg" crc="3957907108" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img7368x45.jpg" crc="3817127500" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img9670x45.jpg" crc="324597992" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img11361x45.jpg" crc="3860185178" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img02.jpg" crc="125475032" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img03.jpg" crc="355808881" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img04.jpg" crc="72895529" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img05.jpg" crc="406701677" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img06.jpg" crc="3892556933" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img07.jpg" crc="4020001802" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img08.jpg" crc="402198405" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img09.jpg" crc="518349138" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img11.jpg" crc="191828699" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img12.jpg" crc="343909118" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img13.jpg" crc="142598888" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img14.jpg" crc="484489227" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16.jpg" crc="522690036" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img17.jpg" crc="275543419" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img18.jpg" crc="3971457249" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img19.jpg" crc="424275361" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img24.jpg" crc="4215560460" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img26.jpg" crc="524755685" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img27.jpg" crc="200626537" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img28.jpg" crc="246283563" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29.jpg" crc="522363007" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30.jpg" crc="495809588" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32.jpg" crc="3929529227" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img38.jpg" crc="4232082690" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img39.jpg" crc="180985760" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42.jpg" crc="4175182741" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img46.jpg" crc="3841055545" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img47.jpg" crc="4213410110" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img48.jpg" crc="4202954365" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img49.jpg" crc="395121759" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img50.jpg" crc="4054897177" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img54.jpg" crc="4052265535" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56.jpg" crc="434087235" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img57.jpg" crc="363325376" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img60.jpg" crc="283337002" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img67.jpg" crc="4253023449" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69.jpg" crc="4173691038" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img72.jpg" crc="4056124695" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img73.jpg" crc="6331656" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img75.jpg" crc="4090590970" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img76.jpg" crc="260652713" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img78.jpg" crc="52073035" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img79.jpg" crc="35992631" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img81.jpg" crc="342462178" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img82.jpg" crc="323516907" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img83.jpg" crc="228733817" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img85.jpg" crc="4286686676" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img88.jpg" crc="39901512" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img89.jpg" crc="3907219655" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img90.jpg" crc="4226089408" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img92.jpg" crc="363280644" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img96.jpg" crc="3888688769" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img97.jpg" crc="147716356" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img99.jpg" crc="126631349" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img100.jpg" crc="404508766" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img103.jpg" crc="3833196214" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img105.jpg" crc="4202105352" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img106.jpg" crc="152701458" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img107.jpg" crc="3884612946" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img108.jpg" crc="4230650304" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img109.jpg" crc="4145554280" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img110.jpg" crc="3955479001" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img111.jpg" crc="522672424" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img112.jpg" crc="4066038114" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img113.jpg" crc="4169909466" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img115.jpg" crc="4119223899" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img116.jpg" crc="3841400626" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img119.jpg" crc="3959601796" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img120.jpg" crc="160034386" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img121.jpg" crc="3919754117" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img123.jpg" crc="3768872132" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img126.jpg" crc="4007215113" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img131.jpg" crc="235630620" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img132.jpg" crc="4262350244" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img134.jpg" crc="4270949228" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u307712.jpg" crc="4029461456" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img109-crop-u315712.jpg" crc="4084823812" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img123-crop-u317712.jpg" crc="528645540" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u307912.jpg" crc="4234943444" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u306112.jpg" crc="223600231" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u308112.jpg" crc="22142015" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u310112.jpg" crc="76082023" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img131-crop-u318112.jpg" crc="4285564566" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img17-crop-u306312.jpg" crc="118434420" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img06-crop-u304512.jpg" crc="3910660037" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img134-crop-u318512.jpg" crc="4190329906" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img19-crop-u306712.jpg" crc="247909730" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u308712.jpg" crc="3957907108" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u310912.jpg" crc="450857253" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img106-crop-u315112.jpg" crc="4168174320" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img120-crop-u317312.jpg" crc="3874309163" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img49-crop-u309512.jpg" crc="450954841" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u307713.jpg" crc="4029461456" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img109-crop-u315713.jpg" crc="4084823812" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img123-crop-u317713.jpg" crc="528645540" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u307913.jpg" crc="4234943444" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u306113.jpg" crc="223600231" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u308113.jpg" crc="22142015" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u310113.jpg" crc="76082023" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img131-crop-u318113.jpg" crc="4285564566" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img17-crop-u306313.jpg" crc="118434420" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img06-crop-u304513.jpg" crc="3910660037" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img134-crop-u318513.jpg" crc="4190329906" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img19-crop-u306713.jpg" crc="247909730" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u308713.jpg" crc="3957907108" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u310913.jpg" crc="450857253" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img106-crop-u315113.jpg" crc="4168174320" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img120-crop-u317313.jpg" crc="3874309163" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img49-crop-u309513.jpg" crc="450954841" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u307914.jpg" crc="4234943444" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img123-crop-u317714.jpg" crc="528645540" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img19-crop-u306714.jpg" crc="247909730" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u308114.jpg" crc="22142015" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img49-crop-u309514.jpg" crc="450954841" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u310914.jpg" crc="450857253" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img106-crop-u315114.jpg" crc="4168174320" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img131-crop-u318114.jpg" crc="4285564566" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img06-crop-u304514.jpg" crc="3910660037" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u308714.jpg" crc="3957907108" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u310114.jpg" crc="76082023" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img109-crop-u315714.jpg" crc="4084823812" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img134-crop-u318514.jpg" crc="4190329906" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u306114.jpg" crc="223600231" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img120-crop-u317314.jpg" crc="3874309163" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img17-crop-u306314.jpg" crc="118434420" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u307714.jpg" crc="4029461456" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u307915.jpg" crc="4234943444" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img123-crop-u317715.jpg" crc="528645540" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img19-crop-u306715.jpg" crc="247909730" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u308115.jpg" crc="22142015" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img49-crop-u309515.jpg" crc="450954841" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u310915.jpg" crc="450857253" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img106-crop-u315115.jpg" crc="4168174320" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img131-crop-u318115.jpg" crc="4285564566" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img06-crop-u304515.jpg" crc="3910660037" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u308715.jpg" crc="3957907108" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u310115.jpg" crc="76082023" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img109-crop-u315715.jpg" crc="4084823812" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img134-crop-u318515.jpg" crc="4190329906" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u306115.jpg" crc="223600231" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img120-crop-u317315.jpg" crc="3874309163" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img17-crop-u306315.jpg" crc="118434420" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u307715.jpg" crc="4029461456" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u307916.jpg" crc="4234943444" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img123-crop-u317716.jpg" crc="528645540" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img19-crop-u306716.jpg" crc="247909730" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u308116.jpg" crc="22142015" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img49-crop-u309516.jpg" crc="450954841" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u310916.jpg" crc="450857253" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img106-crop-u315116.jpg" crc="4168174320" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img131-crop-u318116.jpg" crc="4285564566" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img06-crop-u304516.jpg" crc="3910660037" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u308716.jpg" crc="3957907108" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u310116.jpg" crc="76082023" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img109-crop-u315716.jpg" crc="4084823812" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img134-crop-u318516.jpg" crc="4190329906" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u306116.jpg" crc="223600231" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img120-crop-u317316.jpg" crc="3874309163" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img17-crop-u306316.jpg" crc="118434420" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u307716.jpg" crc="4029461456" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u307917.jpg" crc="4234943444" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img123-crop-u317717.jpg" crc="528645540" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img19-crop-u306717.jpg" crc="247909730" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u308117.jpg" crc="22142015" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img49-crop-u309517.jpg" crc="450954841" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u310917.jpg" crc="450857253" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img106-crop-u315117.jpg" crc="4168174320" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img131-crop-u318117.jpg" crc="4285564566" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img06-crop-u304517.jpg" crc="3910660037" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u308717.jpg" crc="3957907108" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u310117.jpg" crc="76082023" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img109-crop-u315717.jpg" crc="4084823812" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img134-crop-u318517.jpg" crc="4190329906" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u306117.jpg" crc="223600231" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img120-crop-u317317.jpg" crc="3874309163" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img17-crop-u306317.jpg" crc="118434420" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u307717.jpg" crc="4029461456" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="bg9_480.jpg" crc="162860150" seo="true" ref="fotograflar:kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img022.jpg" crc="233030247" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img032.jpg" crc="526918653" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img042.jpg" crc="14751800" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img052.jpg" crc="365714231" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img062.jpg" crc="292756461" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img07-crop-u289951.jpg" crc="502751292" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img082.jpg" crc="4099341913" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img092.jpg" crc="65595425" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img114.jpg" crc="4246661845" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img122.jpg" crc="3888065801" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img13-crop-u290326.jpg" crc="3978599950" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img14-crop-u290401.jpg" crc="4236104008" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u290476.jpg" crc="4075780170" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img172.jpg" crc="4035903864" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img18-crop-u290626.jpg" crc="4082332343" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img192.jpg" crc="4205929754" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img242.jpg" crc="3951853904" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img262.jpg" crc="3781258070" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img272.jpg" crc="350197280" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img282.jpg" crc="242495144" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u291076.jpg" crc="3867713623" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u291151.jpg" crc="4014158053" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u291226.jpg" crc="4283824196" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img38-crop-u291301.jpg" crc="167094639" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img39-crop-u291376.jpg" crc="3844579602" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u291451.jpg" crc="480785252" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img462.jpg" crc="125536416" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img47-crop-u291601.jpg" crc="4288894930" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img482.jpg" crc="4195094252" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img492.jpg" crc="4232356627" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img50-crop-u291826.jpg" crc="374197474" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img54-crop-u291901.jpg" crc="255376673" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u291976.jpg" crc="510366973" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img572.jpg" crc="396975223" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img602.jpg" crc="220884166" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img672.jpg" crc="4170709628" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u292276.jpg" crc="4010005569" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img722.jpg" crc="318599599" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img732.jpg" crc="4095408689" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img75-crop-u292501.jpg" crc="367607697" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img76-crop-u292576.jpg" crc="2551368" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img78-crop-u292651.jpg" crc="490800789" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img79-crop-u292726.jpg" crc="70800404" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img81-crop-u292801.jpg" crc="107960840" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img822.jpg" crc="436287293" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img832.jpg" crc="3774458494" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img852.jpg" crc="402466176" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img882.jpg" crc="4265206529" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img892.jpg" crc="231821101" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img902.jpg" crc="196068436" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img922.jpg" crc="3868953398" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img962.jpg" crc="421857027" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img97-crop-u293476.jpg" crc="4058211730" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img992.jpg" crc="4173914865" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img100-crop-u293626.jpg" crc="403886734" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img103-crop-u293701.jpg" crc="312410838" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1052.jpg" crc="4052132778" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1062.jpg" crc="30745010" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img107-crop-u293926.jpg" crc="240352519" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img108-crop-u294001.jpg" crc="15934811" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1092.jpg" crc="3999434649" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img110-crop-u294151.jpg" crc="210410726" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img111-crop-u294226.jpg" crc="496372912" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img112-crop-u294301.jpg" crc="379411571" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img113-crop-u294376.jpg" crc="3868114869" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img115-crop-u294451.jpg" crc="4158578633" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img116-crop-u294526.jpg" crc="3907470972" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img119-crop-u294601.jpg" crc="4101653358" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1202.jpg" crc="329893028" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img121-crop-u294751.jpg" crc="3814416259" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1232.jpg" crc="3798160800" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1262.jpg" crc="4118235192" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1312.jpg" crc="4153565239" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img132-crop-u295051.jpg" crc="4098403408" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1342.jpg" crc="4195156896" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img06-crop-u289897.jpg" crc="3944681308" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u290497.jpg" crc="3898275279" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u291097.jpg" crc="4037979722" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img392.jpg" crc="4233623512" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u291997.jpg" crc="4055432630" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u292297.jpg" crc="163227474" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img7660x502.jpg" crc="384916229" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img972.jpg" crc="450890663" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img109-crop-u294097.jpg" crc="3988043637" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1132.jpg" crc="3930424237" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img120-crop-u294697.jpg" crc="4150247491" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img131-crop-u294997.jpg" crc="3778306402" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img072.jpg" crc="3938825648" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img17-crop-u290572.jpg" crc="36624476" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u291172.jpg" crc="4232266143" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u291472.jpg" crc="3913750282" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img49-crop-u291772.jpg" crc="4227809679" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img782.jpg" crc="274917864" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img106-crop-u293872.jpg" crc="3801081032" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img11060x512.jpg" crc="4278849234" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1152.jpg" crc="3820215185" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1212.jpg" crc="217687550" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1322.jpg" crc="110163756" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img133.jpg" crc="3978735813" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img182.jpg" crc="335992212" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u291247.jpg" crc="410754067" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img502.jpg" crc="3978250058" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img792.jpg" crc="139311265" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1002.jpg" crc="381799109" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1072.jpg" crc="3770186061" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1112.jpg" crc="4138892722" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1162.jpg" crc="3899353161" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img123-crop-u294847.jpg" crc="255759789" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img134-crop-u295147.jpg" crc="289844165" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img142.jpg" crc="449611066" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img19-crop-u290722.jpg" crc="4137193666" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img3860x512.jpg" crc="4172931136" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img472.jpg" crc="134607491" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img5460x512.jpg" crc="4245368024" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img7560x512.jpg" crc="3775743023" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img812.jpg" crc="4092581977" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1032.jpg" crc="3902218129" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1082.jpg" crc="3854014949" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1122.jpg" crc="4232553295" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img1192.jpg" crc="458844640" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img07-crop-u2899512.jpg" crc="502751292" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img13-crop-u2903262.jpg" crc="3978599950" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img14-crop-u2904012.jpg" crc="4236104008" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u2904762.jpg" crc="4075780170" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img18-crop-u2906262.jpg" crc="4082332343" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u2910762.jpg" crc="3867713623" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u2911512.jpg" crc="4014158053" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u2912262.jpg" crc="4283824196" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img38-crop-u2913012.jpg" crc="167094639" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img39-crop-u2913762.jpg" crc="3844579602" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u2914512.jpg" crc="480785252" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img47-crop-u2916012.jpg" crc="4288894930" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img50-crop-u2918262.jpg" crc="374197474" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img54-crop-u2919012.jpg" crc="255376673" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u2919762.jpg" crc="510366973" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u2922762.jpg" crc="4010005569" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img75-crop-u2925012.jpg" crc="367607697" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img76-crop-u2925762.jpg" crc="2551368" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img78-crop-u2926512.jpg" crc="490800789" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img79-crop-u2927262.jpg" crc="70800404" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img81-crop-u2928012.jpg" crc="107960840" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img97-crop-u2934762.jpg" crc="4058211730" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img100-crop-u2936262.jpg" crc="403886734" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img103-crop-u2937012.jpg" crc="312410838" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img107-crop-u2939262.jpg" crc="240352519" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img108-crop-u2940012.jpg" crc="15934811" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img110-crop-u2941512.jpg" crc="210410726" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img111-crop-u2942262.jpg" crc="496372912" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img112-crop-u2943012.jpg" crc="379411571" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img113-crop-u2943762.jpg" crc="3868114869" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img115-crop-u2944512.jpg" crc="4158578633" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img116-crop-u2945262.jpg" crc="3907470972" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img119-crop-u2946012.jpg" crc="4101653358" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img121-crop-u2947512.jpg" crc="3814416259" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img132-crop-u2950512.jpg" crc="4098403408" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img06-crop-u2898972.jpg" crc="3944681308" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u2904972.jpg" crc="3898275279" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u2910972.jpg" crc="4037979722" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u2919972.jpg" crc="4055432630" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u2922972.jpg" crc="163227474" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img109-crop-u2940972.jpg" crc="3988043637" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img120-crop-u2946972.jpg" crc="4150247491" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img131-crop-u2949972.jpg" crc="3778306402" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img17-crop-u2905722.jpg" crc="36624476" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u2911722.jpg" crc="4232266143" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u2914722.jpg" crc="3913750282" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img49-crop-u2917722.jpg" crc="4227809679" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img106-crop-u2938722.jpg" crc="3801081032" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u2912472.jpg" crc="410754067" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img123-crop-u2948472.jpg" crc="255759789" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img134-crop-u2951472.jpg" crc="289844165" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img19-crop-u2907222.jpg" crc="4137193666" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img07-crop-u2899513.jpg" crc="502751292" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img13-crop-u2903263.jpg" crc="3978599950" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img14-crop-u2904013.jpg" crc="4236104008" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u2904763.jpg" crc="4075780170" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img18-crop-u2906263.jpg" crc="4082332343" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u2910763.jpg" crc="3867713623" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u2911513.jpg" crc="4014158053" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u2912263.jpg" crc="4283824196" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img38-crop-u2913013.jpg" crc="167094639" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img39-crop-u2913763.jpg" crc="3844579602" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u2914513.jpg" crc="480785252" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img47-crop-u2916013.jpg" crc="4288894930" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img50-crop-u2918263.jpg" crc="374197474" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img54-crop-u2919013.jpg" crc="255376673" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u2919763.jpg" crc="510366973" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u2922763.jpg" crc="4010005569" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img75-crop-u2925013.jpg" crc="367607697" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img76-crop-u2925763.jpg" crc="2551368" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img78-crop-u2926513.jpg" crc="490800789" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img79-crop-u2927263.jpg" crc="70800404" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img81-crop-u2928013.jpg" crc="107960840" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img97-crop-u2934763.jpg" crc="4058211730" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img100-crop-u2936263.jpg" crc="403886734" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img103-crop-u2937013.jpg" crc="312410838" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img107-crop-u2939263.jpg" crc="240352519" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img108-crop-u2940013.jpg" crc="15934811" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img110-crop-u2941513.jpg" crc="210410726" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img111-crop-u2942263.jpg" crc="496372912" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img112-crop-u2943013.jpg" crc="379411571" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img113-crop-u2943763.jpg" crc="3868114869" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img115-crop-u2944513.jpg" crc="4158578633" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img116-crop-u2945263.jpg" crc="3907470972" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img119-crop-u2946013.jpg" crc="4101653358" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img121-crop-u2947513.jpg" crc="3814416259" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img132-crop-u2950513.jpg" crc="4098403408" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img06-crop-u2898973.jpg" crc="3944681308" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u2904973.jpg" crc="3898275279" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u2910973.jpg" crc="4037979722" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u2919973.jpg" crc="4055432630" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u2922973.jpg" crc="163227474" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img109-crop-u2940973.jpg" crc="3988043637" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img120-crop-u2946973.jpg" crc="4150247491" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img131-crop-u2949973.jpg" crc="3778306402" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img17-crop-u2905723.jpg" crc="36624476" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u2911723.jpg" crc="4232266143" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u2914723.jpg" crc="3913750282" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img49-crop-u2917723.jpg" crc="4227809679" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img106-crop-u2938723.jpg" crc="3801081032" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u2912473.jpg" crc="410754067" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img123-crop-u2948473.jpg" crc="255759789" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img134-crop-u2951473.jpg" crc="289844165" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img19-crop-u2907223.jpg" crc="4137193666" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img07-crop-u2899514.jpg" crc="502751292" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img13-crop-u2903264.jpg" crc="3978599950" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img14-crop-u2904014.jpg" crc="4236104008" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u2904764.jpg" crc="4075780170" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img18-crop-u2906264.jpg" crc="4082332343" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u2910764.jpg" crc="3867713623" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u2911514.jpg" crc="4014158053" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u2912264.jpg" crc="4283824196" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img38-crop-u2913014.jpg" crc="167094639" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img39-crop-u2913764.jpg" crc="3844579602" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u2914514.jpg" crc="480785252" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img47-crop-u2916014.jpg" crc="4288894930" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img50-crop-u2918264.jpg" crc="374197474" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img54-crop-u2919014.jpg" crc="255376673" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u2919764.jpg" crc="510366973" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u2922764.jpg" crc="4010005569" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img75-crop-u2925014.jpg" crc="367607697" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img76-crop-u2925764.jpg" crc="2551368" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img78-crop-u2926514.jpg" crc="490800789" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img79-crop-u2927264.jpg" crc="70800404" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img81-crop-u2928014.jpg" crc="107960840" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img97-crop-u2934764.jpg" crc="4058211730" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img100-crop-u2936264.jpg" crc="403886734" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img103-crop-u2937014.jpg" crc="312410838" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img107-crop-u2939264.jpg" crc="240352519" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img108-crop-u2940014.jpg" crc="15934811" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img110-crop-u2941514.jpg" crc="210410726" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img111-crop-u2942264.jpg" crc="496372912" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img112-crop-u2943014.jpg" crc="379411571" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img113-crop-u2943764.jpg" crc="3868114869" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img115-crop-u2944514.jpg" crc="4158578633" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img116-crop-u2945264.jpg" crc="3907470972" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img119-crop-u2946014.jpg" crc="4101653358" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img121-crop-u2947514.jpg" crc="3814416259" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img132-crop-u2950514.jpg" crc="4098403408" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img06-crop-u2898974.jpg" crc="3944681308" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img16-crop-u2904974.jpg" crc="3898275279" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img29-crop-u2910974.jpg" crc="4037979722" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img56-crop-u2919974.jpg" crc="4055432630" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img69-crop-u2922974.jpg" crc="163227474" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img109-crop-u2940974.jpg" crc="3988043637" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img120-crop-u2946974.jpg" crc="4150247491" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img131-crop-u2949974.jpg" crc="3778306402" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img17-crop-u2905724.jpg" crc="36624476" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img30-crop-u2911724.jpg" crc="4232266143" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img42-crop-u2914724.jpg" crc="3913750282" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img49-crop-u2917724.jpg" crc="4227809679" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img106-crop-u2938724.jpg" crc="3801081032" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img32-crop-u2912474.jpg" crc="410754067" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img123-crop-u2948474.jpg" crc="255759789" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img134-crop-u2951474.jpg" crc="289844165" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="img19-crop-u2907224.jpg" crc="4137193666" seo="true" ref="fotograflar">
+      <caption webpage="fotograflar" alt=""/>
+    </file>
+    <file name="black_and_white_dog-900.jpg" crc="4060906556" seo="true" ref="kopek_mamasi">
+      <caption webpage="kopek_mamasi" alt=""/>
+    </file>
+    <file name="img_2587.jpg" crc="478628927" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2588.jpg" crc="204119229" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2589.jpg" crc="4225869615" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2587-crop-u237495.jpg" crc="4023620947" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2588-crop-u238778.jpg" crc="4176618391" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2589-crop-u238842.jpg" crc="3906054665" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2587-crop-u2374952.jpg" crc="4023620947" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2588-crop-u2387782.jpg" crc="4176618391" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2589-crop-u2388422.jpg" crc="3906054665" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2587-crop-u2374953.jpg" crc="4023620947" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2588-crop-u2387783.jpg" crc="4176618391" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2589-crop-u2388423.jpg" crc="3906054665" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2587-crop-u2374954.jpg" crc="4023620947" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2588-crop-u2387784.jpg" crc="4176618391" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2589-crop-u2388424.jpg" crc="3906054665" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2587-crop-u2374955.jpg" crc="3945811048" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2588-crop-u2387785.jpg" crc="4147775193" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2589-crop-u2388425.jpg" crc="125012612" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2587-crop-u2374956.jpg" crc="3945811048" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2588-crop-u2387786.jpg" crc="4147775193" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2589-crop-u2388426.jpg" crc="125012612" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2587-crop-u2374957.jpg" crc="3945811048" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2588-crop-u2387787.jpg" crc="4147775193" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2589-crop-u2388427.jpg" crc="125012612" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2587-crop-u2374958.jpg" crc="3945811048" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2588-crop-u2387788.jpg" crc="4147775193" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="img_2589-crop-u2388428.jpg" crc="125012612" seo="true" ref="kopek_oteli">
+      <caption webpage="kopek_oteli" alt=""/>
+    </file>
+    <file name="tel.png" crc="430234488" seo="true" ref="iletisim">
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+      <caption webpage="iletisim" alt=""/>
+    </file>
+    <file name="hamburger-01-u436238.png" crc="82132597" ref="haberler"/>
+  </folder>
+  <file name="index.html" crc="4111496943" seo="true" mt="1554550893758" redirect="true"/>
+  <file name="fotograflar.html" crc="207474008" seo="true" mt="1554550893758" redirect="true"/>
+  <file name="kopek_mamasi.html" crc="3951140358" seo="true" mt="1554550893758" redirect="true"/>
+  <file name="serdar_arslan.html" crc="4246183568" seo="true" mt="1554550893758" redirect="true"/>
+  <file name="kopek_egitimi.html" crc="3951728985" seo="true" mt="1554550893758" redirect="true"/>
+  <file name="kopek_oteli.html" crc="132517980" seo="true" mt="1554550893758" redirect="true"/>
+  <file name="iletisim.html" crc="3946279864" seo="true" mt="1554552439569" redirect="true"/>
+  <file name="haberler.html" crc="469844796" seo="true" mt="1554550922888" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <paragraphStyle className="quote" uid="U3595"/>
+    <paragraphStyle className="S001---Caption" uid="U7042"/>
+    <paragraphStyle className="heading3-slider" uid="U8381"/>
+    <paragraphStyle className="bodytext-slider" uid="U8403"/>
+    <paragraphStyle className="navigation-white" uid="U8810"/>
+    <paragraphStyle className="bodytext" uid="U9376"/>
+    <characterStyle className="Menu-Buttons" uid="U1226"/>
+    <characterStyle className="nav_item" uid="U9052"/>
+    <characterStyle className="nav_item_header1" uid="U9059"/>
+    <characterStyle className="sub_nav_item" uid="U9189"/>
+    <textLinkStyle className="Phone" uid="U9107"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="anasayfa" filename="index.html" muse_href="page:U93" master="U434675">
+        <breakpoint uid="U225892" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U223897" maxwidth="468" minwidth="321" squishy="true"/>
+        <breakpoint uid="U223736" maxwidth="520" minwidth="469" squishy="true"/>
+        <breakpoint uid="U222950" maxwidth="600" minwidth="521" squishy="true"/>
+        <breakpoint uid="U222044" maxwidth="768" minwidth="601" squishy="true"/>
+        <breakpoint uid="U221515" maxwidth="900" minwidth="769" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="1160" minwidth="901" squishy="true"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U434675">
+        <breakpoint uid="U434938" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U434764" maxwidth="448" minwidth="376" squishy="true"/>
+        <breakpoint uid="U435116" maxwidth="768" minwidth="449" squishy="true"/>
+        <breakpoint uid="U435029" maxwidth="815" minwidth="769" squishy="true"/>
+        <breakpoint uid="U434851" maxwidth="1160" minwidth="816" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="fotograflar" filename="fotograflar.html" muse_href="page:U27362" master="U434675">
+        <breakpoint uid="U295582" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U288432" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U277159" maxwidth="600" minwidth="481" squishy="true"/>
+        <breakpoint uid="U276184" maxwidth="840" minwidth="601" squishy="true"/>
+        <breakpoint uid="U275771" maxwidth="900" minwidth="841" squishy="true"/>
+        <breakpoint uid="U274383" maxwidth="1060" minwidth="901" squishy="true"/>
+        <breakpoint uid="U27354" maxwidth="1160" minwidth="1061" squishy="true"/>
+      </page>
+      <page name="kopek_mamasi" filename="kopek_mamasi.html" muse_href="page:U27382" master="U434675">
+        <breakpoint uid="U264986" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U264222" maxwidth="468" minwidth="321" squishy="true"/>
+        <breakpoint uid="U262321" maxwidth="740" minwidth="469" squishy="true"/>
+        <breakpoint uid="U262266" maxwidth="768" minwidth="741" squishy="true"/>
+        <breakpoint uid="U262062" maxwidth="900" minwidth="769" squishy="true"/>
+        <breakpoint uid="U27374" maxwidth="1160" minwidth="901" squishy="true"/>
+      </page>
+      <page name="serdar_arslan" filename="serdar_arslan.html" muse_href="page:U92335" master="U434675">
+        <breakpoint uid="U229335" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U119468" maxwidth="468" minwidth="321" squishy="true"/>
+        <breakpoint uid="U117905" maxwidth="768" minwidth="469" squishy="true"/>
+        <breakpoint uid="U139999" maxwidth="900" minwidth="769" squishy="true"/>
+        <breakpoint uid="U91522" maxwidth="1160" minwidth="901" squishy="true"/>
+      </page>
+      <page name="kopek_egitimi" filename="kopek_egitimi.html" muse_href="page:U234590" master="U434675">
+        <breakpoint uid="U234007" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U234121" maxwidth="468" minwidth="321" squishy="true"/>
+        <breakpoint uid="U234463" maxwidth="768" minwidth="469" squishy="true"/>
+        <breakpoint uid="U234350" maxwidth="900" minwidth="769" squishy="true"/>
+        <breakpoint uid="U234234" maxwidth="1160" minwidth="901" squishy="true"/>
+      </page>
+      <page name="kopek_oteli" filename="kopek_oteli.html" muse_href="page:U237461" master="U434675">
+        <breakpoint uid="U252749" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U249679" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U244783" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U244496" maxwidth="900" minwidth="769" squishy="true"/>
+        <breakpoint uid="U236886" maxwidth="1160" minwidth="901" squishy="true"/>
+      </page>
+      <page name="iletisim" filename="iletisim.html" muse_href="page:U299936" master="U434675">
+        <breakpoint uid="U305778" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U304620" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U303653" maxwidth="740" minwidth="481" squishy="true"/>
+        <breakpoint uid="U303432" maxwidth="768" minwidth="741" squishy="true"/>
+        <breakpoint uid="U303062" maxwidth="900" minwidth="769" squishy="true"/>
+        <breakpoint uid="U299422" maxwidth="1160" minwidth="901" squishy="true"/>
+      </page>
+      <page name="haberler" filename="haberler.html" muse_href="page:U433638" master="U436099">
+        <breakpoint uid="U433506" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U433157" maxwidth="468" minwidth="321" squishy="true"/>
+        <breakpoint uid="U433274" maxwidth="768" minwidth="469" squishy="true"/>
+        <breakpoint uid="U432931" maxwidth="900" minwidth="769" squishy="true"/>
+        <breakpoint uid="U433390" maxwidth="1160" minwidth="901" squishy="true"/>
+      </page>
+      <masterPage name="B-Master" master="U62" uid="U436099">
+        <breakpoint uid="U436104" maxwidth="375" minwidth="0" squishy="true"/>
+        <breakpoint uid="U436355" maxwidth="448" minwidth="376" squishy="true"/>
+        <breakpoint uid="U436269" maxwidth="768" minwidth="449" squishy="true"/>
+        <breakpoint uid="U436531" maxwidth="815" minwidth="769" squishy="true"/>
+        <breakpoint uid="U436445" maxwidth="1160" minwidth="816" squishy="true"/>
+      </masterPage>
+    </rendition>
+  </renditions>
+</manifest>
